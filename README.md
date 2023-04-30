@@ -16,6 +16,22 @@ From a virtual environment, run:
 
 ```python
 python -m flask run
+```
+
+To run outside of the VS code debugger, set an environment variable for FLASK_APP.
+
+On Linux and macOS, use: export set FLASK_APP=api.app
+On Windows, using Powershell: $env:FLASK_APP=api.app
+On Windows, using Command Prompt: set FLASK_APP=api.app
+
+In the terminal run:
+
+```python
+python -m flask run
+```
+
+
+
 
 ## Contributing
 
