@@ -1,4 +1,4 @@
-# Foobar
+# flask-service-1
 
 flask-service-1 is a Python API application I created for use in my blogs and for testing purposes.
 
